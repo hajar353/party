@@ -1,0 +1,32 @@
+@media screen and (max-width:412px) {
+    h2{
+        font-size: 2rem !important;
+    }
+    p{
+        font-size: 1rem !important;
+        
+    }
+    .open{
+        font-size: 1rem !important;
+    }
+    #slider p{
+        font-size: 1rem !important;
+    }
+    #slider h3{
+        font-size:1.5rem !important ;
+    }
+
+}
+@media screen and (max-width:767px) {
+    #count{
+        height: 700px;
+    }
+    form{
+        margin-top: 40px;
+    }
+}
+@media screen and (max-width:651px) {
+    #slider{
+        width: 90%;
+        }
+}
