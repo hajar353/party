@@ -21,17 +21,7 @@ $(".leftMenu a").click(function () {
 
 })
 
-// مش راضيه تشتغل مع انها زي اللي فوق بظبط ايه الفرق 
 
-// $('.leftMenu a').click(function(){
-
-//     const secToGo=$(this).attr('herf');
-
-//     const sec=$(secToGo).offset().top;
-
-//     $('html , body').animate({scrollTop:sec},2000)
-//     console.log('hello')
-// })
 
 // slider....................................................
 
